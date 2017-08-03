@@ -1,0 +1,3 @@
+﻿[D:sys_loc][D:sys_time]天气怎么样	WEATHER
+[D:sys_time][D:sys_loc]天气如何	WEATHER
+[D:sys_time]天气好[D:kw_ma]	WEATHER

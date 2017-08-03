@@ -1,0 +1,500 @@
+来几个颐堤港里的冰淇淋店	USER_CATE	user_food_info:冰淇淋	user_cate_area:颐堤港
+奥林匹克森林公园附近清淡一点的饭店	USER_CATE	user_sortby_cate:附近	user_taste:清淡	user_cate_area:奥林匹克森林公园
+大屯路附近老妈兔头	USER_CATE	user_sortby_cate:附近	user_restaurant:老妈兔头	user_cate_area:大屯路
+中关村高大上的法国餐馆	USER_CATE	user_environment:高大上	user_food_info:法国餐馆	user_cate_area:中关村
+T3航站楼哪个店有早餐	USER_CATE	user_meal_time:早餐	user_cate_area:T3航站楼
+13号线沿线的评价高的餐馆	USER_CATE	user_sortby_cate:评价高	user_cate_area:13号线
+附近海底捞	USER_CATE	user_sortby_cate:附近	user_restaurant:海底捞
+五道口评价高的西餐厅	USER_CATE	user_sortby_cate:评价高	user_food_info:西餐厅	user_cate_area:五道口
+四合院里的创意餐厅	USER_CATE	user_environment:四合院里	user_food_info:创意餐厅
+798附近找家台湾菜	USER_CATE	user_sortby_cate:附近	user_food_info:台湾菜	user_cate_area:798
+中关村附近烧烤	USER_CATE	user_sortby_cate:附近	user_food_info:烧烤	user_cate_area:中关村
+团购给力的烤鸭店	USER_CATE	user_sortby_cate:团购给力	user_food_info:烤鸭
+知春路附近浙江菜	USER_CATE	user_sortby_cate:附近	user_food_info:浙江菜	user_cate_area:知春路
+我的附近有24小时营业餐厅吗？	USER_CATE	user_sortby_cate:附近	user_open_hours:24小时营业
+肠胃不好，找个附近粥铺？	USER_CATE	user_sortby_cate:附近	user_food_info:粥
+我要便宜的家常菜饭店，在南城的	USER_CATE	user_food_info:家常菜	user_sortby_cate:便宜	user_cate_area:南城
+我在四惠东，给我找个日料	USER_CATE	user_food_info:日料	user_cate_area:四惠东
+农大西校区附近有没有哪家餐馆做意大利面	USER_CATE	user_food_info:意大利面	user_sortby_cate:附近	user_cate_area:农大西校区
+有没有烤羊腿，上地	USER_CATE	user_food_info:烤羊腿	user_cate_area:上地
+南苑机场附近有没有早餐店	USER_CATE	user_sortby_cate:附近	user_meal_time:早餐	user_cate_area:南苑机场
+附近有没有好吃的饺子馆啊	USER_CATE	user_sortby_cate:附近	user_food_info:饺子	user_sortby_cate:好吃
+比较清静的饭店找一个	USER_CATE	user_environment:比较清静
+西二旗附近狗肉店	USER_CATE	user_sortby_cate:附近	user_food_info:狗肉	user_cate_area:西二旗
+西安吃羊肉泡沫的地方	USER_CATE	user_food_info:羊肉泡沫	user_cate_area:西安	
+哪儿有赛百味	USER_CATE	user_restaurant:赛百味
+附近饺子馆	USER_CATE	user_sortby_cate:附近	user_food_info:饺子	
+哪儿有甜品店	USER_CATE	user_food_info:甜品
+牛街小吃	USER_CATE	user_food_info:小吃	user_cate_area:牛街	
+我特想吃大肉包子	USER_CATE	user_food_info:大肉包子
+除了鼓楼哪儿还有姚记炒肝店	USER_CATE	user_restaurant:姚记炒肝店	user_cate_area:除了鼓楼	
+人均消费70的餐厅	USER_CATE	user_price:人均消费70
+西湖附近餐厅	USER_CATE	user_sortby_cate:附近	user_cate_area:西湖
+有wifi的餐厅	USER_CATE	user_wifi:有wifi
+推荐个韩国料理	USER_CATE	user_food_info:韩国料理
+五道口附近清真饭店有哪些	USER_CATE	user_food_info:清真	user_sortby_cate:附近	user_cate_area:五道口
+西二旗附近有肯德基吗	USER_CATE	user_sortby_cate:附近	user_restaurant:肯德基	user_cate_area:西二旗
+庆丰包子铺 订餐	USER_CATE_RESERVE	user_restaurant:庆丰包子铺
+我想吃包子	USER_CATE	user_food_info:包子
+五道口附近西餐厅推荐	USER_CATE	user_sortby_cate:附近	user_food_info:西餐	user_cate_area:五道口
+回龙观的火锅店	USER_CATE	user_food_info:火锅	user_cate_area:回龙观	
+深圳本家韩国料理	USER_CATE	user_restaurant:本家韩国料理	user_cate_area:深圳	
+深圳胡桃里音乐餐厅	USER_CATE	user_restaurant:胡桃里音乐餐厅	user_cate_area:深圳	
+上海新白鹿餐厅	USER_CATE	user_restaurant:新白鹿	user_cate_area:上海	
+有哪些饭店可以吃到进口牛肉	USER_CATE	user_food_info:进口牛肉
+健德门附近有可以团购的餐厅吗	USER_CATE	user_sortby_cate:附近	user_group_buy:可以团购	user_cate_area:健德门
+上海外滩附近格调高的餐馆	USER_CATE	user_environment:格调高	user_sortby_cate:附近	user_cate_area:上海外滩
+上海外滩逼格很高的餐厅	USER_CATE	user_environment:逼格很高	user_cate_area:上海外滩	
+我想找个不太油腻的馆子	USER_CATE	user_taste:不太油腻
+订个晚上的饭店	USER_CATE_RESERVE	user_meal_time:晚上
+附近有没有比较实惠的工作餐	USER_CATE	user_sortby_cate:附近	user_sortby_cate:比较实惠	user_food_info:工作餐
+新街口附近双人套餐，求推荐	USER_CATE	user_sortby_cate:附近	user_food_info:双人套餐	user_cate_area:新街口
+回龙观附近实惠的中餐馆	USER_CATE	user_sortby_cate:附近	user_sortby_cate:实惠	user_food_info:中餐馆	user_cate_area:回龙观	
+附近能吃宵夜的地方	USER_CATE	user_sortby_cate:附近	user_meal_time:宵夜	
+给我推荐一家河南口味的面馆	USER_CATE	user_food_info:河南口味	user_food_info:面馆	
+找一家200以下的自助餐	USER_CATE	user_price:200以下	user_food_info:自助餐	
+附近最实惠的东北菜	USER_CATE	user_sortby_cate:附近	user_sortby_cate:最实惠	user_food_info:东北菜
+今天晚上10点还营业的烤肉店	USER_CATE	user_meal_time:今天晚上10点	user_food_info:烤肉店	
+随便给我找一家吃的吧	USER_CATE	
+香山附近布置精致的，情调高雅的鲁菜馆	USER_CATE	user_food_info:鲁菜	user_sortby_cate:附近	user_environment:布置精致	user_environment:情调高雅	user_cate_area:香山
+好的你帮我查一查卫青西路上这一条路上的美食	USER_CATE	user_cate_area:卫青西路
+凯德广场周围安静的餐厅, 有吗?	USER_CATE	user_environment:安静	user_sortby_cate:周围	user_cate_area:凯德广场
+上河桥周边精致的餐厅	USER_CATE	user_environment:精致	user_sortby_cate:周边	user_cate_area:上河桥
+金色年华	USER_CATE	user_restaurant:金色年华
+附近烤串	USER_CATE	user_sortby_cate:附近	user_food_info:烤串	
+附近都有什么好吃的	USER_CATE	user_sortby_cate:附近
+附近24小时餐厅	USER_CATE	user_sortby_cate:附近	user_open_hours:24小时	
+附近川菜	USER_CATE	user_sortby_cate:附近	user_food_info:川菜	
+附近吃饭的餐馆	USER_CATE	user_sortby_cate:附近
+附近煎饼店	USER_CATE	user_sortby_cate:附近	user_food_info:煎饼	
+附近烤肉餐厅	USER_CATE	user_food_info:烤肉	user_sortby_cate:附近	
+附近绝味鸭脖	USER_CATE	user_sortby_cate:附近	user_restaurant:绝味鸭脖	
+附近餐馆	USER_CATE	user_sortby_cate:附近
+附近餐厅、	USER_CATE	user_sortby_cate:附近
+附近美食有什么呢	USER_CATE	user_sortby_cate:附近
+附近美食有啥	USER_CATE	user_sortby_cate:附近
+附近哪里美食	USER_CATE	user_sortby_cate:附近
+附近哪里有面馆	USER_CATE	user_sortby_cate:附近	user_food_info:面馆	
+附近那家烧烤	USER_CATE	user_sortby_cate:附近	user_food_info:烧烤	
+附近美食[n]	USER_CATE	user_sortby_cate:附近
+附近麻辣烫。	USER_CATE	user_sortby_cate:附近	user_food_info:麻辣烫	
+附近绿茶餐厅	USER_CATE	user_sortby_cate:附近	user_restaurant:绿茶餐厅	
+附近清真拉面	USER_CATE	user_food_info:清真	user_sortby_cate:附近	user_food_info:拉面
+附近小吃店	USER_CATE	user_sortby_cate:附近	user_food_info:小吃	
+附近小龙虾餐厅	USER_CATE	user_sortby_cate:附近	user_food_info:小龙虾	
+附近咖啡厅	USER_CATE	user_sortby_cate:附近	user_food_info:咖啡	
+附近烧麦	USER_CATE	user_sortby_cate:附近	user_food_info:烧麦	
+附近日式料理	USER_CATE	user_sortby_cate:附近	user_food_info:日式料理	
+附近蛋糕	USER_CATE	user_sortby_cate:附近	user_food_info:蛋糕	
+附近有啥湘菜馆	USER_CATE	user_sortby_cate:附近	user_food_info:湘菜	
+附近西式快餐餐厅	USER_CATE	user_food_info:西式快餐	user_sortby_cate:附近	
+附近炸酱面店	USER_CATE	user_sortby_cate:附近	user_food_info:炸酱面	
+附近韩国料理	USER_CATE	user_sortby_cate:附近	user_food_info:韩国料理	
+附近便宜的饭店	USER_CATE	user_sortby_cate:附近	user_sortby_cate:便宜	
+附近盖浇饭餐厅	USER_CATE	user_food_info:盖浇饭	user_sortby_cate:附近	
+附近四十到八十之间餐厅	USER_CATE	user_sortby_cate:附近	user_price:四十到八十之间	
+附近人均消费一百以上的日料	USER_CATE	user_price:人均消费一百以上	user_sortby_cate:附近	user_food_info:日料
+附近烧烤店	USER_CATE	user_sortby_cate:附近	user_food_info:烧烤	
+附近素食餐厅	USER_CATE	user_food_info:素食	user_sortby_cate:附近	
+附近土豆丝餐厅	USER_CATE	user_food_info:土豆丝	user_sortby_cate:附近	
+附近湘菜馆	USER_CATE	user_sortby_cate:附近	user_food_info:湘菜	
+附近午餐	USER_CATE	user_sortby_cate:附近	user_meal_time:午餐	
+附近韦小宝烧烤	USER_CATE	user_sortby_cate:附近	user_restaurant:韦小宝烧烤	
+附近巴西烤肉	USER_CATE	user_sortby_cate:附近	user_food_info:巴西烤肉	
+附近王少龙火锅	USER_CATE	user_sortby_cate:附近	user_restaurant:王少龙火锅	
+附近羊肉汤店	USER_CATE	user_sortby_cate:附近	user_food_info:羊肉汤	
+附近韩国料理店	USER_CATE	user_sortby_cate:附近	user_food_info:韩国料理	
+附近回转火锅	USER_CATE	user_sortby_cate:附近	user_food_info:回转火锅	
+附近有餐馆吗	USER_CATE	user_sortby_cate:附近
+附近有肠粉	USER_CATE	user_sortby_cate:附近	user_food_info:肠粉	
+附近有哪些灌汤包	USER_CATE	user_sortby_cate:附近	user_food_info:灌汤包	
+附近有哪些十到二十元的餐馆	USER_CATE	user_price:十到二十元	user_sortby_cate:附近	
+附近有哪些好吃的帮我搜一下	USER_CATE	user_sortby_cate:附近
+附近有黄金高档的餐厅吗	USER_CATE	user_sortby_cate:附近	user_environment:黄金高档	
+附近有黄金高档的西餐吗	USER_CATE	user_sortby_cate:附近	user_environment:黄金高档	user_food_info:西餐
+附近有没有饭店	USER_CATE	user_sortby_cate:附近
+附近有没有面食	USER_CATE	user_sortby_cate:附近	user_food_info:面食	
+附近有没有驴打滚店	USER_CATE	user_sortby_cate:附近	user_food_info:驴打滚	
+看看附近有没有好吃的	USER_CATE	user_sortby_cate:附近
+附近有没有喝粥的地方	USER_CATE	user_sortby_cate:附近	user_food_info:粥	
+附近有些什么餐馆	USER_CATE	user_sortby_cate:附近
+附近有比较高档一点的西餐厅吗	USER_CATE	user_sortby_cate:附近	user_environment:比较高档一点	user_food_info:西餐
+附近有什么川菜	USER_CATE	user_sortby_cate:附近	user_food_info:川菜	
+附近有什么吃饭的	USER_CATE	user_sortby_cate:附近
+附近有什么美食吗	USER_CATE	user_sortby_cate:附近
+附近有什么火锅	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	
+附近有什么咖啡店吗	USER_CATE	user_sortby_cate:附近	user_food_info:咖啡	
+附近有什么西餐厅吗	USER_CATE	user_sortby_cate:附近	user_food_info:西餐	
+附近有什么自助	USER_CATE	user_sortby_cate:附近	user_food_info:自助	
+附近有好吃的重庆小面馆吗	USER_CATE	user_food_info:重庆小面	user_sortby_cate:附近	
+附近有高档的西餐厅吗	USER_CATE	user_sortby_cate:附近	user_environment:高档	user_food_info:西餐
+附近自助火锅	USER_CATE	user_sortby_cate:附近	user_food_info:自助火锅	
+附近冰激凌	USER_CATE	user_sortby_cate:附近	user_food_info:冰激凌	
+附近口味清淡的餐厅	USER_CATE	user_taste:口味清淡	user_sortby_cate:附近	
+附件的煎饺	USER_CATE	user_sortby_cate:附件	user_food_info:煎饺	
+附件的面馆	USER_CATE	user_sortby_cate:附件	user_food_info:面馆	
+北京的酒吧	USER_CATE	user_food_info:酒吧	user_cate_area:北京	
+九宫格火锅	USER_CATE	user_food_info:九宫格火锅
+济南平阴东阿镇早点	USER_CATE	user_meal_time:早点	user_cate_area:济南平阴东阿镇	
+济南高新区附近餐厅	USER_CATE	user_sortby_cate:附近	user_cate_area:济南高新区	
+济宁的美食	USER_CATE	user_cate_area:济宁
+吉祥面馆在哪里	USER_CATE	user_restaurant:吉祥面馆
+景德镇有那些吃的	USER_CATE	user_cate_area:景德镇
+界首附近快餐店	USER_CATE	user_sortby_cate:附近	user_food_info:快餐	user_cate_area:界首
+金融国际广场附近咖啡厅	USER_CATE	user_sortby_cate:附近	user_food_info:咖啡	user_cate_area:金融国际广场
+金汉斯东大直街	USER_CATE	user_restaurant:金汉斯	user_cate_area:东大直街	
+北京喜家德水饺在哪里	USER_CATE	user_restaurant:喜家德水饺	user_cate_area:北京	
+江西黎川县有什么小吃	USER_CATE	user_food_info:小吃	user_cate_area:江西黎川县	
+北京西站附近快餐店	USER_CATE	user_sortby_cate:附近	user_food_info:快餐	user_cate_area:北京西站
+烤鸭店	USER_CATE	user_food_info:烤鸭
+北京有什么好吃的吗	USER_CATE	user_cate_area:北京
+北京大学附近餐馆	USER_CATE	user_sortby_cate:附近	user_cate_area:北京大学	
+1227附近咖啡	USER_CATE	user_sortby_cate:附近	user_food_info:咖啡	user_cate_area:1227
+1985酒吧	USER_CATE	user_restaurant:1985酒吧
+鼓楼地铁站星巴克	USER_CATE	user_restaurant:星巴克	user_cate_area:鼓楼地铁站	
+广东汕头濠江区离一中队的咖啡厅	USER_CATE	user_food_info:咖啡	user_cate_area:广东汕头濠江区	
+广东省湛江市麻章区太平镇哪里有餐厅	USER_CATE	user_cate_area:广东省湛江市麻章区太平镇
+广州图书馆周围的餐厅	USER_CATE	user_sortby_cate:周围	user_cate_area:广州图书馆	
+广州越秀区盘福路附近可以喝早茶的地方！	USER_CATE	user_sortby_cate:附近	user_meal_time:早茶	user_cate_area:广州越秀区盘福路
+广州海珠墩和附近自助餐	USER_CATE	user_food_info:自助餐	user_sortby_cate:附近	user_cate_area:广州海珠墩和
+还想吃糖醋排骨	USER_CATE	user_food_info:糖醋排骨
+北关附近自助	USER_CATE	user_sortby_cate:附近	user_food_info:自助	user_cate_area:北关
+购物公园有味千拉面地址说一下。	USER_CATE	user_restaurant:味千拉面	user_cate_area:购物公园	
+法国菜	USER_CATE	user_food_info:法国菜
+菠萝饭的餐厅，	USER_CATE	user_food_info:菠萝饭
+安庆市有没有美食	USER_CATE	user_cate_area:安庆市
+查一下宋记粥铺	USER_CATE	user_restaurant:宋记粥铺
+查一下啊one合肥万达东门瑶海区万达东门的美食有什么好吃的	USER_CATE	user_cate_area:合肥万达东门瑶海区万达东门
+查找附近美食	USER_CATE	user_sortby_cate:附近
+安徽金玉满堂蛋糕	USER_CATE	user_restaurant:金玉满堂	user_food_info:蛋糕	user_cate_area:安徽
+昌邑区哪里有蟹黄小笼包	USER_CATE	user_food_info:蟹黄小笼包	user_cate_area:昌邑区	
+常平星巴克	USER_CATE	user_restaurant:星巴克	user_cate_area:常平	
+吃火锅重庆火锅	USER_CATE	user_food_info:重庆火锅	user_food_info:火锅	
+毛家湾	USER_CATE	user_restaurant:毛家湾
+兰州市红古广场的自助火锅	USER_CATE	user_food_info:自助	user_food_info:火锅	user_cate_area:兰州市红古广场
+嗯附近有什么咖啡店	USER_CATE	user_sortby_cate:附近	user_food_info:咖啡	
+牛排餐厅	USER_CATE	user_food_info:牛排
+嗯嗯嗯嗯嗯嗯附近餐厅	USER_CATE	user_sortby_cate:附近
+哪里可以吃麻辣烫	USER_CATE	user_food_info:麻辣烫
+哪里有价格实惠的北京菜	USER_CATE	user_sortby_cate:价格实惠	user_food_info:北京菜	
+哪里有火锅冰淇淋吃	USER_CATE	user_food_info:火锅冰淇淋
+哪里有火烧	USER_CATE	user_food_info:火烧
+哪里有休闲茶吧呢	USER_CATE	user_food_info:休闲茶吧
+哪里有最近的麻辣烫	USER_CATE	user_sortby_cate:最近的	user_food_info:麻辣烫	
+哪里有粥店	USER_CATE	user_food_info:粥
+哪里有早餐吃	USER_CATE	user_meal_time:早餐
+你能帮我找到天津小吃比较多的地方	USER_CATE	user_food_info:小吃	user_cate_area:天津	
+哦那你知道有什么餐馆吗真的好想要啊或者是什么什么	USER_CATE	
+嗯谢谢那现在请你告诉我这边有24小时营业的咖啡厅	USER_CATE	user_open_hours:24小时营业	user_food_info:咖啡	
+美食推荐附近	USER_CATE	user_sortby_cate:附近
+面条?	USER_CATE	user_food_info:面条
+面包	USER_CATE	user_food_info:面包
+昆明台北帮厨	USER_CATE	user_restaurant:台北帮厨	user_cate_area:昆明	
+嗯我想看看最近有什么饭店呢	USER_CATE	user_sortby_cate:最近
+你知道成都哪个地方有卖，高县特殊火锅的？	USER_CATE	user_food_info:高县特殊火锅	user_cate_area:成都	
+你知道武汉有什么美食吗	USER_CATE	user_cate_area:武汉
+你知道重庆火锅有哪些	USER_CATE	user_food_info:重庆火锅
+你好请帮我看下附近有什么好吃的	USER_CATE	user_sortby_cate:附近
+昆明永春路。上海小笼	USER_CATE	user_food_info:上海小笼	user_cate_area:昆明永春路	
+你怎么样我看帮我查一下广州酒吧	USER_CATE	user_food_info:酒吧	user_cate_area:广州	
+多乐之日	USER_CATE	user_restaurant:多乐之日
+冷饮	USER_CATE	user_food_info:冷饮
+那你帮我找美食	USER_CATE	
+那你帮我找找有什么好吃的	USER_CATE	
+那你给我推荐哪个面馆儿想吃面	USER_CATE	user_food_info:面馆
+那奶茶在哪里	USER_CATE	user_food_info:奶茶
+那帮我找一下附近火锅店	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	
+那这附近有什么吃的吗就是城北一路大学城北一路这边	USER_CATE	user_sortby_cate:附近	user_cate_area:城北一路大学城北一路	
+那有火锅店	USER_CATE	user_food_info:火锅
+漯河市蛋糕	USER_CATE	user_food_info:蛋糕	user_cate_area:漯河市	
+麻烦帮我找一下附近肯德基	USER_CATE	user_sortby_cate:附近	user_restaurant:肯德基	
+评价最好的杨国福麻辣烫是哪一家	USER_CATE	user_sortby_cate:评价最好	user_restaurant:杨国福麻辣烫	
+麻辣米粉	USER_CATE	user_taste:麻辣	user_food_info:米粉	
+坡子街附近火锅店	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	user_cate_area:坡子街
+麻辣诱惑	USER_CATE	user_restaurant:麻辣诱惑
+灵宝市餐厅	USER_CATE	user_cate_area:灵宝市
+德克士	USER_CATE	user_restaurant:德克士	
+灵溪自助餐[n]	USER_CATE	user_food_info:自助餐	user_cate_area:灵溪	
+离我最近的饺子馆儿	USER_CATE	user_sortby_cate:离我最近	user_food_info:饺子	
+离我最近的肯德基	USER_CATE	user_sortby_cate:离我最近	user_restaurant:肯德基	
+东圃的麻辣香锅	USER_CATE	user_food_info:麻辣香锅	user_cate_area:东圃	
+黄岛区有哪些海鲜大排档	USER_CATE	user_food_info:海鲜大排档	user_cate_area:黄岛区	
+盘锦牛排都有哪些店	USER_CATE	user_food_info:牛排	user_cate_area:盘锦	
+南坪附近咖啡厅	USER_CATE	user_sortby_cate:附近	user_food_info:咖啡	user_cate_area:南坪
+奶酪汉堡	USER_CATE	user_food_info:奶酪汉堡
+马鞍山美食	USER_CATE	user_cate_area:马鞍山
+南阳的烧烤	USER_CATE	user_food_info:烧烤	user_cate_area:南阳	
+哦我附近有啥好吃的地方呢	USER_CATE	user_sortby_cate:附近
+牛蛙火锅店	USER_CATE	user_food_info:牛蛙火锅
+隆回哪里有卖麻辣烫的地方	USER_CATE	user_food_info:麻辣烫	user_cate_area:隆回	
+嵩山嵩山的下午茶	USER_CATE	user_meal_time:下午茶	user_cate_area:嵩山	
+刘一手火锅	USER_CATE	user_restaurant:刘一手火锅
+青岛美食	USER_CATE	user_cate_area:青岛
+清真的餐厅	USER_CATE	user_food_info:清真
+青州市百度烤肉	USER_CATE	user_restaurant:百度烤肉	user_cate_area:青州市	
+青州天虹花园美食	USER_CATE	user_cate_area:青州天虹花园
+钱小奴创意自助餐厅[n]	USER_CATE	user_restaurant:钱小奴创意自助餐厅
+请你给我推荐几家火锅店	USER_CATE	user_food_info:火锅
+请帮我查找一下我附近有哪些火锅店。	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	
+请给我推荐一个中午吃饭的地方	USER_CATE	user_meal_time:中午
+乾县餐馆	USER_CATE	user_cate_area:乾县
+东风中路附近清真餐馆	USER_CATE	user_food_info:清真	user_sortby_cate:附近	user_cate_area:东风中路
+秦皇岛市海港区的哦价格比较便宜的餐馆	USER_CATE	user_sortby_cate:价格比较便宜	user_cate_area:秦皇岛市海港区	
+小布林附近餐厅	USER_CATE	user_sortby_cate:附近	user_cate_area:小布林	
+东新街烧鸡	USER_CATE	user_food_info:烧鸡	user_cate_area:东新街	
+新客家	USER_CATE	user_restaurant:新客家
+新招一下附近餐厅	USER_CATE	user_sortby_cate:附近
+佛山祖庙铂顿城附近烤肉店	USER_CATE	user_sortby_cate:附近	user_food_info:烤肉	user_cate_area:佛山祖庙铂顿城
+徐州美食	USER_CATE	user_cate_area:徐州
+徐州市里的火锅店有哪些	USER_CATE	user_food_info:火锅	user_cate_area:徐州市	
+小猪猪内蒙呼和浩特	USER_CATE	user_restaurant:小猪猪	user_cate_area:内蒙呼和浩特	
+山东省轻工工程学校附近维莱客汉堡	USER_CATE	user_sortby_cate:附近	user_restaurant:维莱客汉堡	user_cate_area:山东省轻工工程学校
+水饺店	USER_CATE	user_food_info:水饺
+比较实惠的甜点店	USER_CATE	user_sortby_cate:比较实惠	user_food_info:甜点	
+甘家寨附近餐厅	USER_CATE	user_sortby_cate:附近	user_cate_area:甘家寨	
+什么地方有自助餐	USER_CATE	user_food_info:自助餐
+抚顺附近美食	USER_CATE	user_sortby_cate:附近	user_cate_area:抚顺	
+食堂里有什么好吃的	USER_CATE	user_cate_area:食堂
+虎泉街烧烤	USER_CATE	user_food_info:烧烤	user_cate_area:虎泉街	
+请问哪里有卖耳机请问哪里的餐厅有卖的意大利肉酱面	USER_CATE	user_food_info:意大利肉酱面
+泉州海底捞	USER_CATE	user_restaurant:海底捞	user_cate_area:泉州	
+是啊我找的就是在我附近烧烤店	USER_CATE	user_sortby_cate:附近	user_food_info:烧烤	
+水尚鲜	USER_CATE	user_restaurant:水尚鲜
+人生广场附近美食	USER_CATE	user_sortby_cate:附近	user_cate_area:人生广场	
+孙庄附近餐馆	USER_CATE	user_sortby_cate:附近	user_cate_area:孙庄	
+十五块钱鸭脖	USER_CATE	user_price:十五块钱	user_food_info:鸭脖	
+上海小笼包	USER_CATE	user_food_info:上海小笼包
+上岛咖啡	USER_CATE	user_restaurant:上岛咖啡
+上地海底捞	USER_CATE	user_restaurant:海底捞	user_cate_area:上地	
+深圳价格10元以内的餐馆	USER_CATE	user_price:10元以内	user_cate_area:深圳	
+搜索附近餐厅	USER_CATE	user_sortby_cate:附近
+去一家清淡结了一点的西餐	USER_CATE	user_taste:清淡	user_food_info:西餐	
+八号儿线沿线的餐厅	USER_CATE	user_cate_area:八号儿线沿线
+沈阳医学院附近火锅店	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	user_cate_area:沈阳医学院
+可以帮我找一找最近最便宜的餐馆吗	USER_CATE	user_sortby_cate:最近	user_sortby_cate:最便宜	
+苏州吴中所有的海鲜自助	USER_CATE	user_food_info:海鲜自助	user_cate_area:苏州吴中	
+白石洲吃火锅	USER_CATE	user_food_info:火锅	user_cate_area:白石洲	
+福寿山那边的烧烤地怎么样〜	USER_CATE	user_food_info:烧烤地	user_cate_area:福寿山	
+三里屯附近牛排	USER_CATE	user_sortby_cate:附近	user_food_info:牛排	user_cate_area:三里屯
+三元桥附近绝味鸭脖	USER_CATE	user_sortby_cate:附近	user_restaurant:绝味鸭脖	user_cate_area:三元桥
+宿迁附近餐厅	USER_CATE	user_sortby_cate:附近	user_cate_area:宿迁	
+淄川附近餐厅	USER_CATE	user_sortby_cate:附近	user_cate_area:淄川	
+客家王	USER_CATE	user_restaurant:客家王
+最近的海底捞	USER_CATE	user_sortby_cate:最近	user_restaurant:海底捞	
+最近比较实惠的牛排	USER_CATE	user_sortby_cate:最近	user_sortby_cate:比较实惠	user_food_info:牛排
+最近有没有什么吃的	USER_CATE	user_sortby_cate:最近
+西安市所有的百度饮品店	USER_CATE	user_food_info:百度饮品	user_cate_area:西安市	
+西餐，便宜的	USER_CATE	user_sortby_cate:便宜	user_food_info:西餐	
+西安有什么小吃	USER_CATE	user_food_info:小吃	user_cate_area:西安	
+提供些有发糕的餐厅	USER_CATE	user_food_info:发糕
+汤锅	USER_CATE	user_food_info:汤锅
+厦门莲板附近夜宵	USER_CATE	user_sortby_cate:附近	user_meal_time:夜宵	user_cate_area:厦门莲板
+味多美	USER_CATE	user_restaurant:味多美
+为你推荐附近餐厅吧	USER_CATE	user_sortby_cate:附近
+未来路商城路附近蛋糕店	USER_CATE	user_sortby_cate:附近	user_food_info:蛋糕	user_cate_area:未来路商城路
+五道口的部队火锅	USER_CATE	user_food_info:部队火锅	user_cate_area:五道口	
+推荐餐馆	USER_CATE	
+推荐部队火锅	USER_CATE	user_food_info:部队火锅
+推荐一家理工大学附近美食	USER_CATE	user_sortby_cate:附近	user_cate_area:理工大学	
+推荐个餐厅	USER_CATE	
+推荐一款广东的粤菜。	USER_CATE	user_food_info:广东的粤菜
+推荐一下餐馆吧	USER_CATE	
+推荐一个日本料理吧	USER_CATE	user_food_info:日本料理
+推荐个东海花园附近饭店	USER_CATE	user_sortby_cate:附近	user_cate_area:东海花园	
+武汉江汉区火锅	USER_CATE	user_food_info:火锅	user_cate_area:武汉江汉区	
+武汉的美食有哪些	USER_CATE	user_cate_area:武汉
+肯德基店肯德基店	USER_CATE	user_restaurant:肯德基
+台山附近餐厅	USER_CATE	user_sortby_cate:附近	user_cate_area:台山	
+巫山纸包鱼	USER_CATE	user_food_info:巫山纸包鱼
+想吃螺蛳粉	USER_CATE	user_food_info:螺蛳粉
+想吃螃蟹	USER_CATE	user_food_info:螃蟹
+醉烧刀	USER_CATE	user_restaurant:醉烧刀
+想在附近找吃的	USER_CATE	user_sortby_cate:附近
+泰煌鸡	USER_CATE	user_restaurant:泰煌鸡
+田老师24小时	USER_CATE	user_open_hours:24小时	user_restaurant:田老师	
+晚上烧烤	USER_CATE	user_meal_time:晚上	user_food_info:烧烤	
+帮我看看附近蛋糕店	USER_CATE	user_sortby_cate:附近	user_food_info:蛋糕	
+帮我查下的川菜	USER_CATE	user_food_info:川菜
+帮我查一下附近茶馆	USER_CATE	user_sortby_cate:附近	user_food_info:茶馆	
+帮我查一下崇阳吧的西餐	USER_CATE	user_food_info:西餐	user_cate_area:崇阳	
+帮我查一下台湾小吃	USER_CATE	user_food_info:台湾小吃
+帮我查找附近美食	USER_CATE	user_sortby_cate:附近
+帮我搜索附近酒吧	USER_CATE	user_sortby_cate:附近	user_food_info:酒吧	
+帮我搜索一下附近美食	USER_CATE	user_sortby_cate:附近
+帮我推荐成都美食	USER_CATE	user_cate_area:成都
+阿田大虾	USER_CATE	user_restaurant:阿田大虾
+天河哪里有饭店	USER_CATE	user_cate_area:天河
+帮我看一下附近快餐	USER_CATE	user_sortby_cate:附近	user_food_info:快餐	
+帮我找下这个的饭店都哪些	USER_CATE	
+帮我找一下附近川菜馆	USER_CATE	user_sortby_cate:附近	user_food_info:川菜	
+帮我找一下附近自助餐馆	USER_CATE	user_food_info:自助	user_sortby_cate:附近	
+帮我找一下附近最近的餐厅	USER_CATE	user_sortby_cate:附近	user_sortby_cate:最近	
+帮我找一下赤峰离我近的美食	USER_CATE	user_sortby_cate:离我近	user_cate_area:赤峰	
+帮我找找周围的咖啡店	USER_CATE	user_sortby_cate:周围	user_food_info:咖啡	
+帮我找找周边有什么好吃的	USER_CATE	user_sortby_cate:周边
+帮我在华城附近找一下有什么美食	USER_CATE	user_sortby_cate:附近	user_cate_area:华城	
+帮我在鱼化寨早上几家有wifi餐厅	USER_CATE	user_wifi:有wifi	user_cate_area:鱼化寨	
+我附近哪有火锅	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	
+我附近肯德基在	USER_CATE	user_sortby_cate:附近	user_restaurant:肯德基	
+我就想我就想吃麻辣烫	USER_CATE	user_food_info:麻辣烫
+我今天想吃大餐	USER_CATE	user_meal_time:今天
+我今天要去肯德基	USER_CATE	user_meal_time:今天	user_restaurant:肯德基	
+王郡馆的餐馆在哪里他吃的	USER_CATE	user_restaurant:王郡馆
+太原长风街附近高档一点的饭店	USER_CATE	user_sortby_cate:附近	user_environment:高档一点	user_cate_area:太原长风街
+我的附近有什么美食	USER_CATE	user_sortby_cate:附近
+我旁边有什么饭店	USER_CATE	user_sortby_cate:旁边
+我说附近好吃的便宜点儿的	USER_CATE	user_sortby_cate:附近	user_sortby_cate:便宜点儿	
+我想吃炒面	USER_CATE	user_food_info:炒面
+我想吃盖浇饭	USER_CATE	user_food_info:盖浇饭
+我想吃火锅帮我找下附近有什么火锅店	USER_CATE	user_food_info:火锅	user_sortby_cate:附近	
+我想吃沙拉	USER_CATE	user_food_info:沙拉
+我想吃生日蛋糕	USER_CATE	user_food_info:生日蛋糕
+我想吃凤爪	USER_CATE	user_food_info:凤爪
+我想吃粤菜	USER_CATE	user_food_info:粤菜
+我想吃红烧肉有吗	USER_CATE	user_food_info:红烧肉
+我想吃包子喝	USER_CATE	user_food_info:包子
+我想看看烧烤	USER_CATE	user_food_info:烧烤
+啊我想去一家环境不错的饭店请推荐一家	USER_CATE	user_environment:环境不错
+我想要吃美食	USER_CATE	
+我想知道附近美食	USER_CATE	user_sortby_cate:附近
+我想要转转锅的餐馆	USER_CATE	user_food_info:转转锅
+我想喝咖啡那个给我找一下最近的咖啡馆儿	USER_CATE	user_food_info:咖啡	user_sortby_cate:最近	user_food_info:咖啡
+我想喝胡辣汤	USER_CATE	user_food_info:胡辣汤
+我想找附近咖啡厅	USER_CATE	user_sortby_cate:附近	user_food_info:咖啡	
+我想找个餐厅	USER_CATE	
+我现在在南通逗号附近有什么好吃的吗	USER_CATE	user_restaurant:南通逗号	user_sortby_cate:附近	user_meal_time:现在
+我要酒吧	USER_CATE	user_food_info:酒吧
+我要吃鸡肉卷	USER_CATE	user_food_info:鸡肉卷
+我要吃炒年糕我要校园的炒年糕餐馆也行	USER_CATE	user_food_info:炒年糕
+我要吃面食	USER_CATE	user_food_info:面食
+我要吃黄焖鸡	USER_CATE	user_food_info:黄焖鸡
+我要吃蛋糕	USER_CATE	user_food_info:蛋糕
+我要吃米线呢	USER_CATE	user_food_info:米线
+我要吃龙虾	USER_CATE	user_food_info:龙虾
+我要吃扬州炒饭！?	USER_CATE	user_food_info:扬州炒饭
+我要吃海底捞火锅	USER_CATE	user_restaurant:海底捞火锅
+我要吃必胜客	USER_CATE	user_restaurant:必胜客
+我要吃猪蹄	USER_CATE	user_food_info:猪蹄
+我要吃汉堡赶快给我个汉堡吃	USER_CATE	user_food_info:汉堡
+我要吃周黑鸭	USER_CATE	user_restaurant:周黑鸭
+我要吃冰激凌	USER_CATE	user_food_info:冰激凌
+我要麻辣烫	USER_CATE	user_food_info:麻辣烫
+我要的是山西刀削面而不是鸭血粉丝	USER_CATE	user_food_info:山西刀削面
+我要十块钱以下的咖啡厅	USER_CATE	user_price:十块钱以下	user_food_info:咖啡	
+我要喝珍珠奶茶	USER_CATE	user_food_info:珍珠奶茶
+我要红烧肉	USER_CATE	user_food_info:红烧肉
+我要找餐	USER_CATE	
+我要一个汉堡	USER_CATE	user_food_info:汉堡
+铁路局附近自助火锅	USER_CATE	user_sortby_cate:附近	user_food_info:自助火锅	user_cate_area:铁路局
+铁岭市西丰县美食	USER_CATE	user_cate_area:铁岭市西丰县
+乌镇评价最高的餐厅人均消费一百元左右	USER_CATE	user_price:人均消费一百元左右	user_sortby_cate:评价最高	user_cate_area:乌镇
+锡林郭勒盟有什么饭店	USER_CATE	user_cate_area:锡林郭勒盟
+鸭血粉丝汤	USER_CATE	user_food_info:鸭血粉丝汤
+学校附近有火锅店吗	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	user_cate_area:学校
+雕刻时光的披萨	USER_CATE	user_food_info:披萨	user_restaurant:雕刻时光	
+雕刻时光披萨店	USER_CATE	user_restaurant:雕刻时光	user_food_info:披萨	
+阳澄湖大闸蟹在哪里吃	USER_CATE	user_food_info:阳澄湖大闸蟹
+[n]有滋有味	USER_CATE	user_restaurant:有滋有味
+寻找美味	USER_CATE	
+从江县美食	USER_CATE	user_cate_area:从江县
+杭州大厦有附近美食	USER_CATE	user_sortby_cate:附近	user_cate_area:杭州大厦	
+韩国料理店	USER_CATE	user_food_info:韩国料理
+徽菜	USER_CATE	user_food_info:徽菜
+这附近哪里有一百块钱左右的吃饭的地方	USER_CATE	user_price:一百块钱左右	user_sortby_cate:附近	
+这附近哪有吃自助餐的餐厅吗	USER_CATE	user_sortby_cate:附近	user_food_info:自助餐	
+这附近有没有什么吃的	USER_CATE	user_sortby_cate:附近
+状元街的美食有哪些？	USER_CATE	user_cate_area:状元街
+伊家鲜	USER_CATE	user_restaurant:伊家鲜
+要吃小龙虾	USER_CATE	user_food_info:小龙虾
+要奶茶	USER_CATE	user_food_info:奶茶
+要龙泉说的烧烤	USER_CATE	user_food_info:烧烤	user_cate_area:龙泉	
+这事什么店里的火锅	USER_CATE	user_food_info:火锅
+云南保山美食	USER_CATE	user_cate_area:云南保山
+云南省泸西县的小吃	USER_CATE	user_food_info:小吃	user_cate_area:云南省泸西县	
+浙师大附近餐厅	USER_CATE	user_sortby_cate:附近	user_cate_area:浙师大	
+义乌美食	USER_CATE	user_cate_area:义乌
+义乌福田路八婺饭堂	USER_CATE	user_restaurant:八婺饭堂	user_cate_area:义乌福田路	
+颐和园附近大董烤鸭店	USER_CATE	user_sortby_cate:附近	user_restaurant:大董烤鸭店	user_cate_area:颐和园
+早祝福附近一家餐馆人均五十左右不要火锅	USER_CATE	user_price:人均五十左右	user_sortby_cate:附近	user_food_info:不要火锅
+早点小店	USER_CATE	user_meal_time:早点
+一千元的餐厅在哪里呀	USER_CATE	user_price:一千元
+有吃有吃川菜的有吃川菜的地方吗	USER_CATE	user_food_info:川菜
+有哪些美食	USER_CATE	
+有哪些咖啡	USER_CATE	user_food_info:咖啡
+有没有嗨锅	USER_CATE	user_restaurant:嗨锅
+有没有麦当劳	USER_CATE	user_restaurant:麦当劳
+有没有什么海南小吃	USER_CATE	user_food_info:海南小吃
+有没有最近的汉堡店呀	USER_CATE	user_sortby_cate:最近	user_food_info:汉堡	
+有没有喝下午茶的地方	USER_CATE	user_meal_time:下午茶
+有情调的咖啡馆	USER_CATE	user_environment:有情调	user_food_info:咖啡	
+有什么吃的吗	USER_CATE	
+中药学院附近绝味鸭脖哪里有？	USER_CATE	user_sortby_cate:附近	user_restaurant:绝味鸭脖	user_cate_area:中药学院
+必胜客的万圣节披萨	USER_CATE	user_food_info:万圣节披萨	user_restaurant:必胜客	
+珠海美食餐厅	USER_CATE	user_cate_area:珠海
+株洲美食	USER_CATE	user_cate_area:株洲
+红古区海石湾那有自助火锅	USER_CATE	user_food_info:自助火锅	user_cate_area:红古区海石湾	
+诸城的小吃有哪些	USER_CATE	user_food_info:小吃	user_cate_area:诸城	
+红星路电视塔附近美食	USER_CATE	user_sortby_cate:附近	user_cate_area:红星路电视塔	
+给我查一下附近火锅店	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	
+一万块钱以下的小吃	USER_CATE	user_price:一万块钱以下	user_food_info:小吃	
+给我推荐吃早茶的地方	USER_CATE	user_meal_time:早茶
+给我找几家附近有wifi的饺子馆	USER_CATE	user_sortby_cate:附近	user_wifi:有wifi	user_food_info:饺子
+给我一个咖啡	USER_CATE	user_food_info:咖啡
+给我找个吃饭的地方	USER_CATE	
+给我在鱼化寨周边早上几家带有wifi的锅贴店	USER_CATE	user_sortby_cate:周边	user_meal_time:早上	user_food_info:锅贴	user_wifi:有wifi	user_cate_area:鱼化寨
+禾斛岭附近有什么饭店	USER_CATE	user_sortby_cate:附近	user_cate_area:禾斛岭	
+找附近餐馆	USER_CATE	user_sortby_cate:附近
+重庆的美食	USER_CATE	user_cate_area:重庆
+重庆酸辣粉	USER_CATE	user_food_info:酸辣粉	user_cate_area:重庆	
+肇庆自助火锅	USER_CATE	user_food_info:自助火锅	user_cate_area:肇庆	
+一只酸奶牛	USER_CATE	user_restaurant:一只酸奶牛
+河北保定三台镇山西村附近火锅店	USER_CATE	user_sortby_cate:附近	user_food_info:火锅	user_cate_area:河北保定三台镇山西村
+找个酒吧	USER_CATE	user_food_info:酒吧
+找个能停车的东北菜馆	USER_CATE	user_parking:能停车	user_food_info:东北菜馆	
+找一下附近24小时营业的小吃店	USER_CATE	user_sortby_cate:附近	user_open_hours:24小时营业	user_food_info:小吃
+找一下周边的美食	USER_CATE	user_sortby_cate:周边
+找个西式餐厅	USER_CATE	user_food_info:西式餐厅
+自助餐，实惠	USER_CATE	user_food_info:自助餐	user_sortby_cate:实惠	
+自助餐自助餐自助餐	USER_CATE	user_food_info:自助餐
+饮品店	USER_CATE	user_food_info:饮品
+大慧寺路5号院周围[n]的拉面馆	USER_CATE	user_sortby_cate:周围	user_food_info:拉面	user_cate_area:大慧寺路5号院
+周围茶餐厅	USER_CATE	user_sortby_cate:周围	user_food_info:茶餐厅	
+周围火锅店	USER_CATE	user_sortby_cate:周围	user_food_info:火锅	
+周围自助烤肉店	USER_CATE	user_sortby_cate:周围	user_food_info:自助烤肉	
+周边的蛋糕店	USER_CATE	user_sortby_cate:周边	user_food_info:蛋糕	
+福州餐馆	USER_CATE	user_cate_area:福州
+正一味石锅拌饭	USER_CATE	user_food_info:石锅拌饭	user_restaurant:正一味	
+湖南菜	USER_CATE	user_food_info:湖南菜
+鼎湖坑口美食	USER_CATE	user_cate_area:鼎湖坑口
+pizza	USER_CATE	user_food_info:pizza
+百年永和豆浆，永和大王	USER_CATE	user_restaurant:百年永和豆浆	user_restaurant:永和大王	
+恩基帮我搜索一下附近快餐店	USER_CATE	user_sortby_cate:附近	user_food_info:快餐	
+惠城区蛋糕店	USER_CATE	user_food_info:蛋糕	user_cate_area:惠城区	
+惠州这边都有哪些蛋糕店	USER_CATE	user_food_info:蛋糕	user_cate_area:惠州	
+二道区附近有哪些餐馆	USER_CATE	user_sortby_cate:附近	user_cate_area:二道区	
+帮我在海底捞定个座	USER_CATE_RESERVE	user_restaurant:海底捞
+帮我预定明天中午的九头鸟，家庭大聚餐，要十人桌	USER_CATE_RESERVE	user_restaurant:九头鸟	user_meal_time:明天中午	user_meal_scale:十人
+帮我在海底捞定一个两人的座位	USER_CATE_RESERVE	user_restaurant:海底捞	user_meal_scale:两人	
+帮我预约一下海底捞，部门聚餐，一共十个人	USER_CATE_RESERVE	user_restaurant:海底捞	user_meal_scale:十个人	
+帮我预约一下海底捞，明晚六点的位置，两人桌	USER_CATE_RESERVE	user_restaurant:海底捞	user_meal_time:明晚六点	user_meal_scale:两人
+帮我在御马墩定个座	USER_CATE_RESERVE	user_restaurant:御马墩
+今晚六点，帮我在御马墩预约一个包厢，十个人	USER_CATE_RESERVE	user_restaurant:御马墩	user_meal_time:今晚六点	user_meal_scale:十个人
+帮我在御马墩预约个六点的位置，四个人	USER_CATE_RESERVE	user_restaurant:御马墩	user_meal_time:六点	user_meal_scale:四个人
+想吃弄堂里，帮我预定一下	USER_CATE_RESERVE	user_restaurant:弄堂里
+明晚六点弄堂里，帮我预定个座	USER_CATE_RESERVE	user_restaurant:弄堂里	user_meal_time:明晚六点	
+明晚六点弄堂里，帮我预定个四人桌	USER_CATE_RESERVE	user_restaurant:弄堂里	user_meal_time:明晚六点	user_meal_scale:四人
+导航去麦当劳	USER_CATE_NAGIVATION	user_restaurant:麦当劳
+我要去云海肴，给我导航一下	USER_CATE_NAGIVATION	user_restaurant:云海肴
+导航去满记甜品（西单大悦城店）	USER_CATE_NAGIVATION	user_restaurant:满记甜品	user_cate_area:西单大悦城	
+导航，西单大悦城的满记甜品	USER_CATE_NAGIVATION	user_restaurant:满记甜品	user_cate_area:西单大悦城	
+帮我导航到巴依老爷，北师大店	USER_CATE_NAGIVATION	user_restaurant:巴依老爷	user_cate_area:北师大	
+帮我导航到五道口的麻辣诱惑，在华联商厦里	USER_CATE_NAGIVATION	user_restaurant:麻辣诱惑	user_cate_area:华联商厦	user_cate_area:五道口
+我要去巴依老爷，给我导航到望京那家	USER_CATE_NAGIVATION	user_restaurant:巴依老爷	user_cate_area:望京	
+导航，带我去枫蓝国际的呷哺呷哺	USER_CATE_NAGIVATION	user_restaurant:呷哺呷哺	user_cate_area:枫蓝国际	
+海底捞上地店，导航到这里去	USER_CATE_NAGIVATION	user_restaurant:海底捞	user_cate_area:上地	
+给我导航去火炉火五道口店	USER_CATE_NAGIVATION	user_restaurant:火炉火	user_cate_area:五道口	
+火炉火五道口店，导航。	USER_CATE_NAGIVATION	user_restaurant:火炉火	user_cate_area:五道口	
+导航教我怎么走去北邮的楼上楼茶餐厅	USER_CATE_NAGIVATION	user_restaurant:楼上楼茶餐厅	user_cate_area:北邮	
+三里屯那边有冰激凌店吗	USER_CATE	user_food_info:冰激凌	user_cate_area:三里屯	
+附近有没有什么自助火锅啊[n]	USER_CATE	user_sortby_cate:附近	user_food_info:自助火锅	
+南岗附近的自助烤肉	USER_CATE	user_sortby_cate:附近	user_food_info:自助烤肉	user_cate_area:南岗

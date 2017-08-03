@@ -1,0 +1,309 @@
+我想看剑侠传奇	USER_MOVIE	user_movie:剑侠传奇			
+好看的科幻片——还有吗	USER_MOVIE	user_sortby:好看	user_movie_type:科幻		
+你知道我家附近有哪些电影院么	USER_MOVIE_CINEMA	user_cinema_area:家	user_sortby:附近		
+我想看电影了，查询下公司这边都有哪些电影院	USER_MOVIE_CINEMA	user_cinema_area:公司			
+推荐个好看的电影	USER_MOVIE	user_sortby:好看
+推荐个电影	USER_MOVIE
+想看电影	USER_MOVIE
+推荐个刘德华的电影	USER_MOVIE	user_actor:刘德华							
+古惑仔5电影	USER_MOVIE	user_movie:古惑仔	user_version_num:5		
+有没有好看的电影求推荐	USER_MOVIE	user_sortby:好看			
+最近有什么新发布电影	USER_MOVIE	user_release:最近	user_release:新发布		
+最近有什么好看电影	USER_MOVIE	user_release:最近	user_sortby:好看		
+有没有好看的电影	USER_MOVIE	user_sortby:好看			
+那搜索终结者	USER_MOVIE	user_movie:终结者			
+那有什么电影好看	USER_MOVIE	user_sortby:好看			
+最近都有什么好看的电影	USER_MOVIE	user_release:最近	user_sortby:好看		
+放点音乐剧	USER_MOVIE	user_movie_type:音乐剧			
+动作片	USER_MOVIE	user_movie_type:动作			
+有哪些好看点的电影啊	USER_MOVIE	user_sortby:好看点			
+可以看电影吗	USER_MOVIE				
+看看功夫熊猫	USER_MOVIE	user_movie:功夫熊猫			
+想看看电影疯狂动物城	USER_MOVIE	user_movie:疯狂动物城			
+我要看看孙俪的电影	USER_MOVIE	user_actor:孙俪			
+找找成龙高分电影	USER_MOVIE	user_actor:成龙	user_sortby:高分		
+杜汶泽的喜剧电影	USER_MOVIE	user_actor:杜汶泽	user_movie_type:喜剧		
+有没有好看的剧情片啊	USER_MOVIE	user_sortby:好看	user_movie_type:剧情		
+推荐一部法国的爱情电影吧	USER_MOVIE	user_movie_area:法国	user_movie_type:爱情		
+乔任梁  电影	USER_MOVIE	user_actor:乔任梁			
+周杰伦的电影有哪些	USER_MOVIE	user_actor:周杰伦			
+来自港台的精彩的武打片推荐	USER_MOVIE	user_movie_area:港台	user_movie_type:武打	user_sortby:精彩	
+伦理片日本的好多，那些比较好看	USER_MOVIE	user_movie_area:日本	user_sortby:比较好看	user_movie_type:伦理	
+刚出了那么多电影，周迅的有哪些	USER_MOVIE	user_release:刚出	user_actor:周迅		
+恐怖类的校园电影	USER_MOVIE	user_movie_type:恐怖	user_movie_type:校园		
+重口味美国电影推荐	USER_MOVIE	user_movie_type:重口味	user_movie_area:美国		
+韩国有哪些电影	USER_MOVIE	user_movie_area:韩国			
+在线观看的电影	USER_MOVIE	user_online_watch:在线观看			
+免费的儿童电影	USER_MOVIE	user_movie_type:儿童	user_is_free:免费		
+今年有什么大片呀	USER_MOVIE	user_movie_time:今年			
+2010年的国产电影	USER_MOVIE	user_movie_area:国产	user_movie_time:2010年		
+给我推荐个好看的电影吧	USER_MOVIE	user_sortby:好看			
+想看大片	USER_MOVIE				
+我要看电影疯狂原始人	USER_MOVIE	user_movie:疯狂原始人			
+给我发一些不要钱的大电影	USER_MOVIE	user_is_free:不要钱			
+香港电影	USER_MOVIE	user_movie_area:香港			
+帮我找一个喜剧片	USER_MOVIE	user_movie_type:喜剧			
+推荐个搞笑类的电影	USER_MOVIE	user_movie_type:搞笑			
+恐怖电影变身	USER_MOVIE	user_movie:变身	user_movie_type:恐怖		
+最好看的什么电影	USER_MOVIE	user_sortby:最好看			
+英文爱情电影	USER_MOVIE	user_movie_type:爱情	user_movie_language:英文		
+白痴电影	USER_MOVIE	user_movie:白痴			
+饥饿的电影	USER_MOVIE	user_movie:饥饿			
+电影澳门风云三	USER_MOVIE	user_movie:澳门风云	user_version_num:三		
+有什么好看的电影呢或者给我介绍个女朋友都行	USER_MOVIE	user_sortby:好看			
+有没有什么好看的恐怖片	USER_MOVIE	user_sortby:好看	user_movie_type:恐怖		
+帮我推荐几部好看的电影吧	USER_MOVIE	user_sortby:好看			
+给我找一部电影	USER_MOVIE				
+准备上映的动画电影	USER_MOVIE	user_movie_type:动画	user_pre_release:准备上映		
+我想要看爱情动作片	USER_MOVIE	user_movie_type:爱情	user_movie_type:动作		
+韩国的电影	USER_MOVIE	user_movie_area:韩国			
+免费好莱坞灾难大片	USER_MOVIE	user_movie_area:好莱坞	user_movie_type:灾难	user_is_free:免费	
+最近有什么免费的电影	USER_MOVIE	user_release:最近	user_is_free:免费		
+日本的青春电影	USER_MOVIE	user_movie_area:日本	user_movie_type:青春		
+免费的电影动画	USER_MOVIE	user_movie_type:动画	user_is_free:免费		
+微微一笑很倾城电影版嘞？	USER_MOVIE	user_movie:微微一笑很倾城			
+那你知道angelababyyou有哪些电影	USER_MOVIE	user_actor:angelababy			
+请问有什么儿童电影	USER_MOVIE	user_movie_type:儿童			
+苍井空的影片	USER_MOVIE	user_actor:苍井空			
+给我放个电影好吗	USER_MOVIE				
+什么恐怖电影最好看	USER_MOVIE	user_movie_type:恐怖	user_sortby:最好看		
+泰国恐怖片	USER_MOVIE	user_movie_area:泰国	user_movie_type:恐怖		
+最近比较好看的电影	USER_MOVIE	user_release:最近	user_sortby:比较好看		
+那里10月2日有没有免费看的电影	USER_MOVIE	user_movie_time:10月2日	user_is_free:免费		
+关于爱情的电影	USER_MOVIE	user_movie_type:爱情			
+再换一个换一个电影看一看吧	USER_MOVIE				
+全城高考电影	USER_MOVIE	user_movie:全城高考			
+2016年高分电影	USER_MOVIE	user_sortby:高分	user_movie_time:2016年		
+我要看动画片儿不要付费花钱的玩具总动员	USER_MOVIE	user_movie_type:动画	user_is_free:不要付费	user_movie:玩具总动员	
+推荐个电影呗	USER_MOVIE				
+我想看千与千寻	USER_MOVIE	user_movie:千与千寻			
+吴亦凡的电影	USER_MOVIE	user_actor:吴亦凡			
+智取威虎山电影	USER_MOVIE	user_movie:智取威虎山			
+我想要看城南旧事这部电影	USER_MOVIE	user_movie:城南旧事			
+电影苹果	USER_MOVIE	user_movie:苹果			
+大陆的恐怖电影	USER_MOVIE	user_movie_area:大陆	user_movie_type:恐怖		
+三毛流浪记电影版	USER_MOVIE	user_movie:三毛流浪记			
+给找个电影看	USER_MOVIE				
+我想看一些免费的喜剧片	USER_MOVIE	user_is_free:免费	user_movie_type:喜剧		
+杨颖拍过哪些电影	USER_MOVIE	user_actor:杨颖			
+你十一个电影火影忍者的第十一的电影是什么	USER_MOVIE	user_movie:火影忍者	user_version_num:十一		
+找几个恐怖电影	USER_MOVIE	user_movie_type:恐怖			
+有哪些好看的电影是免费的	USER_MOVIE	user_sortby:好看	user_is_free:免费		
+我想看王牌逗王牌	USER_MOVIE	user_movie:王牌逗王牌			
+现在最新的电影动作片儿是什么	USER_MOVIE	user_sortby:最新	user_movie_time:现在	user_movie_type:动作	
+看尼古拉斯凯奇的电影	USER_MOVIE	user_actor:尼古拉斯凯奇			
+惊悚悬疑片	USER_MOVIE	user_movie_type:惊悚	user_movie_type:悬疑		
+最近上映的电影？	USER_MOVIE	user_release:最近上映			
+周星驰系列电影	USER_MOVIE	user_actor:周星驰			
+致青春原来你还在这里电影	USER_MOVIE	user_movie:致青春原来你还在这里			
+伦理片有哪些	USER_MOVIE	user_movie_type:伦理			
+2015年的搞笑电影	USER_MOVIE	user_movie_type:搞笑	user_movie_time:2015年		
+要泰国恐怖电影	USER_MOVIE	user_movie_area:泰国	user_movie_type:恐怖		
+纳尼亚传奇电影	USER_MOVIE	user_movie:纳尼亚传奇			
+今天有什么电影可以看	USER_MOVIE	user_movie_time:今天			
+我要看猫和老鼠大电影新出的给我找好多	USER_MOVIE	user_sortby:新出	user_movie:猫和老鼠		
+成龙这电影儿	USER_MOVIE	user_actor:成龙			
+我想看电影儿	USER_MOVIE				
+有什么电影可以推荐的吗	USER_MOVIE				
+你能帮我找到我想看的电影吗	USER_MOVIE				
+现在有什么好看的电影吗	USER_MOVIE	user_sortby:好看	user_movie_time:现在		
+我想看免费电影	USER_MOVIE	user_is_free:免费			
+澳门风云二刘德华	USER_MOVIE	user_actor:刘德华	user_movie:澳门风云	user_version_num:二	
+我要看日本动漫电影	USER_MOVIE	user_movie_area:日本	user_movie_type:动漫		
+陈赫主演的电影	USER_MOVIE	user_actor:陈赫			
+还有什么最近上映的电影没有哦	USER_MOVIE	user_release:最近上映			
+国语最新电影	USER_MOVIE	user_sortby:最新	user_movie_language:国语		
+那还有什么还有什么别的电影了	USER_MOVIE				
+古装片电影	USER_MOVIE	user_movie_type:古装			
+范冰冰拍的苹果	USER_MOVIE	user_actor:范冰冰	user_movie:苹果		
+看电影明天的	USER_MOVIE	user_movie_time:明天			
+最近上映的电影都有什么呀	USER_MOVIE	user_release:最近上映			
+我要看海洋之歌	USER_MOVIE	user_movie:海洋之歌			
+搜索电影	USER_MOVIE				
+欺凌游戏	USER_MOVIE	user_movie:欺凌游戏			
+看个电影儿	USER_MOVIE				
+我要看电影	USER_MOVIE				
+有哪些好看的电影啊帮我找一下吗	USER_MOVIE	user_sortby:好看			
+帮我找杨颖的电影	USER_MOVIE	user_actor:杨颖	
+范冰冰和刘德华的电影	USER_MOVIE	user_actor:杨颖	user_actor:刘德华	
+李安的电影	USER_MOVIE	user_director:李安			
+李安拍的电影	USER_MOVIE	user_director:李安				
+附近有什么电影可以看	USER_MOVIE_CINEMA	user_sortby:附近			
+内地的搞笑电影	USER_MOVIE	user_movie_area:内地	user_movie_type:搞笑		
+我要看红衣男孩	USER_MOVIE	user_movie:红衣男孩			
+电影动漫电影	USER_MOVIE	user_movie_type:动漫			
+有什么战争片好电影	USER_MOVIE	user_movie_type:战争	user_sortby:好		
+给我放个电影吧	USER_MOVIE				
+电影动画电影大电影	USER_MOVIE	user_movie_type:动画			
+2004年姚明演过什么电影	USER_MOVIE	user_actor:姚明	user_movie_time:2004年		
+铁道游击队电影	USER_MOVIE	user_movie:铁道游击队			
+有什么即将上映的电影吗	USER_MOVIE	user_pre_release:即将上映			
+有什么电影演的是关于青春的	USER_MOVIE	user_movie_type:青春			
+我想看爵迹电影	USER_MOVIE	user_movie:爵迹			
+我要看爵迹电影	USER_MOVIE	user_movie:爵迹			
+范冰冰还有什么电影	USER_MOVIE	user_actor:范冰冰			
+还有其他的电影吗	USER_MOVIE				
+异形	USER_MOVIE	user_movie:异形			
+在线电影观看	USER_MOVIE	user_online_watch:在线			
+你给我搜一个电影	USER_MOVIE				
+史上最好看的电影是什么	USER_MOVIE	user_sortby:史上最好看			
+推荐一下电影吧	USER_MOVIE				
+十月份电影	USER_MOVIE	user_movie_time:十月份			
+嗯帮我看一下有没有最近比较好的电影	USER_MOVIE	user_release:最近	user_sortby:比较好		
+范伟最新电影	USER_MOVIE	user_actor:范伟	user_sortby:最新		
+好看的动画片大电影	USER_MOVIE	user_movie_type:动画	user_sortby:好看		
+有什么哪些好看电影	USER_MOVIE	user_sortby:好看			
+我想定个明天看的电影	USER_MOVIE	user_movie_time:明天			
+看动漫电影	USER_MOVIE	user_movie_type:动漫			
+有没有杨洋主演的电影	USER_MOVIE	user_actor:杨洋			
+请帮我看一下明天有什么好看的电影	USER_MOVIE	user_sortby:好看	user_movie_time:明天		
+有没有什么好看的欧美科幻大片	USER_MOVIE	user_movie_area:欧美	user_movie_type:科幻	user_sortby:好看	
+最近有新上映的科幻电影吗	USER_MOVIE	user_movie_type:科幻	user_release:新上映	user_release:最近	
+有没有什么恐怖片	USER_MOVIE	user_movie_type:恐怖			
+我要看环太平洋	USER_MOVIE	user_movie:环太平洋			
+嗯现在的话有什么新出的好看的电影呢	USER_MOVIE	user_release:新出	user_sortby:好看	user_movie_time:现在	
+成龙演的片子	USER_MOVIE	user_actor:成龙			
+看超能太监	USER_MOVIE	user_movie:超能太监			
+你推荐这是有哪些好电影	USER_MOVIE	user_sortby:好			
+搞笑电影、	USER_MOVIE	user_movie_type:搞笑			
+帮我查一下完美音调	USER_MOVIE	user_movie:完美音调			
+哪里可以看微微一笑很倾城电影	USER_MOVIE_CINEMA	user_movie:微微一笑很倾城			
+最近什么电影好看呢！	USER_MOVIE	user_release:最近	user_sortby:好看		
+新上映电影	USER_MOVIE	user_release:新上映			
+我想免费看疯狂动物城	USER_MOVIE	user_is_free:免费	user_movie:疯狂动物城		
+我要看独立日二	USER_MOVIE	user_movie:独立日	user_version_num:二		
+帮我找一个好看的电影	USER_MOVIE	user_sortby:好看			
+请给我播放电影赌神	USER_MOVIE	user_movie:赌神	user_online_watch:播放		
+我要看电影美人鱼最新版而且不要钱免费的	USER_MOVIE	user_movie:美人鱼	user_sortby:最新版	user_is_free:不要钱	user_is_free:免费
+嗯，电影有吗	USER_MOVIE				
+恐怕电影	USER_MOVIE	user_movie_type:恐怕			
+给我推荐点好看的电影吧我要2016年的而且是喜剧的	USER_MOVIE	user_movie_type:喜剧	user_sortby:好看	user_movie_time:2016年	
+帮我看看10月10号的有没有电影	USER_MOVIE	user_movie_time:10月10号			
+杨洋有啥电影	USER_MOVIE	user_actor:杨洋			
+电影致青春	USER_MOVIE	user_movie:致青春			
+你给我查查范冰冰的电影呗	USER_MOVIE	user_actor:范冰冰			
+我说的是七龙珠的免费动漫电影	USER_MOVIE	user_movie:七龙珠	user_is_free:免费	user_movie_type:动漫	
+日本校园动画电影	USER_MOVIE	user_movie_area:日本	user_movie_type:校园	user_movie_type:动画	
+边城电影	USER_MOVIE	user_movie:边城			
+那你让我看你可以让我看一下功夫熊猫一和功夫熊猫二	USER_MOVIE	user_movie:功夫熊猫	user_version_num:一	user_version_num:二	
+我要看色情片是电影	USER_MOVIE	user_movie_type:色情			
+我要看封神传奇不付费的	USER_MOVIE	user_is_free:不付费	user_movie:封神传奇		
+有不要钱的电影么	USER_MOVIE	user_is_free:不要钱			
+苍井空拍的电影	USER_MOVIE	user_actor:苍井空			
+有免费电影吗？	USER_MOVIE	user_is_free:免费			
+可以看微微一笑很倾城电影吗	USER_MOVIE	user_movie:微微一笑很倾城			
+有没有不花钱的电影	USER_MOVIE	user_is_free:不花钱			
+有什么不错的电影	USER_MOVIE	user_sortby:不错			
+有哪些动画电影即将上映	USER_MOVIE	user_movie_type:动画	user_pre_release:即将上映		
+给我推荐一些爱情片	USER_MOVIE	user_movie_type:爱情			
+我要看再见美人鱼上	USER_MOVIE	user_movie:再见美人鱼上			
+苍井空的电影	USER_MOVIE	user_actor:苍井空			
+我要看新桃太郎	USER_MOVIE	user_movie:新桃太郎			
+2016新电影	USER_MOVIE	user_sortby:新	user_movie_time:2016		
+我找片子了快点快点	USER_MOVIE				
+美国高分枪战片	USER_MOVIE	user_movie_area:美国	user_sortby:高分	user_movie_type:枪战	
+黑白道电影	USER_MOVIE	user_movie:黑白道			
+经典喜剧电影	USER_MOVIE	user_movie_type:喜剧	user_movie_type:经典		
+免费的电影刚出的好看的	USER_MOVIE	user_sortby:好看	user_release:刚出	user_is_free:免费	
+日本爱情动作大片	USER_MOVIE	user_movie_area:日本	user_movie_type:爱情	user_movie_type:动作	
+好吧，我想看疯狂动物城	USER_MOVIE	user_movie:疯狂动物城			
+正上映的好电影有哪些	USER_MOVIE	user_release:正上映	user_sortby:好		
+找个电影我要电影	USER_MOVIE				
+可以给我找几个电影看吗	USER_MOVIE				
+最近电影有什么好看的	USER_MOVIE	user_release:最近	user_sortby:好看		
+十一国庆节有哪些好看的大片	USER_MOVIE	user_sortby:好看	user_movie_time:十一国庆节		
+蜡笔小新2016的电影	USER_MOVIE	user_movie:蜡笔小新	user_movie_time:2016		
+给我找个给我找个动画片电影	USER_MOVIE	user_movie_type:动画			
+你能帮我找到我们中国的功夫熊猫三吗	USER_MOVIE	user_movie_language:中国	user_movie:功夫熊猫	user_version_num:三	
+好呀嗯那你能给我播放正片爵迹吗	USER_MOVIE	user_online_watch:播放	user_movie:爵迹		
+要看大片	USER_MOVIE				
+推荐个电影吧	USER_MOVIE				
+我要看龙猫电影	USER_MOVIE	user_movie:龙猫			
+你帮我找找电影可以吗	USER_MOVIE				
+查爵迹这部电影	USER_MOVIE	user_movie:爵迹			
+我要看电影功夫小子	USER_MOVIE	user_movie:功夫小子			
+我要看赛尔号五的	USER_MOVIE	user_movie:赛尔号	user_version_num:五		
+现在热播的电影是什么	USER_MOVIE	user_movie_time:现在	user_sortby:热播		
+有什么电影好看呀	USER_MOVIE	user_sortby:好看			
+想看美国队长3	USER_MOVIE	user_movie:美国队长	user_version_num:3		
+免费电影观看	USER_MOVIE	user_is_free:免费	user_online_watch:观看		
+最近有什么电影上映	USER_MOVIE	user_release:上映	user_release:最近		
+魔幻电影儿免费的	USER_MOVIE	user_movie_type:魔幻	user_is_free:免费		
+免费高分动画电影	USER_MOVIE	user_sortby:高分	user_is_free:免费	user_movie_type:动画	
+看免费电影	USER_MOVIE	user_is_free:免费			
+肉蒲团电影播放	USER_MOVIE	user_movie:肉蒲团	user_online_watch:播放		
+有没有免费的爱情片电影	USER_MOVIE	user_movie_type:爱情	user_is_free:免费		
+我想要免费的电影你能不能给我找到	USER_MOVIE	user_is_free:免费			
+推荐个色情片	USER_MOVIE	user_movie_type:色情			
+你能帮我买一张电影票吗	USER_MOVIE_TICKET	user_ticket_count:一			
+帮我订两张从你的全世界路过的电影票	USER_MOVIE_TICKET	user_movie:从你的全世界路过	user_ticket_count:两		
+购买但丁密码	USER_MOVIE_TICKET	user_movie:但丁密码			
+我想买电影票	USER_MOVIE_TICKET				
+买张电影票。	USER_MOVIE_TICKET				
+沈阳最便宜的电影票	USER_MOVIE_TICKET	user_sortby:最便宜	user_cinema_area:沈阳		
+你能帮我买张电影票吗	USER_MOVIE_TICKET				
+能买电影票吗	USER_MOVIE_TICKET				
+哦买一张电影票帮我	USER_MOVIE_TICKET	user_ticket_count:一			
+我要订湄公河行动的票	USER_MOVIE_TICKET	user_movie:湄公河行动			
+电影票？	USER_MOVIE_TICKET				
+湄公河行动订一张票	USER_MOVIE_TICKET	user_movie:湄公河行动	user_ticket_count:一		
+机械师，电影票	USER_MOVIE_TICKET	user_movie:机械师			
+给我订一张湄公河行动的	USER_MOVIE_TICKET	user_ticket_count:一	user_movie:湄公河行动		
+来一张长城的电影票	USER_MOVIE_TICKET	user_ticket_count:一	user_movie:长城		
+购买电影票	USER_MOVIE_TICKET				
+我想买一张电影票	USER_MOVIE_TICKET	user_ticket_count:一			
+帮我订一张使徒行者的票	USER_MOVIE_TICKET	user_ticket_count:一	user_movie:使徒行者		
+你可以帮我订一张电影票吗	USER_MOVIE_TICKET	user_ticket_count:一			
+给我张电影票我就可以	USER_MOVIE_TICKET				
+帮我买两张湄公河行动的电影票	USER_MOVIE_TICKET	user_movie:湄公河行动	user_ticket_count:两		
+我想买张青州市的电影票	USER_MOVIE_TICKET	user_cinema_area:青州市			
+我想找最便宜的电影票	USER_MOVIE_TICKET	user_sortby:最便宜			
+湄公河行动给我买一张电影票	USER_MOVIE_TICKET	user_movie:湄公河行动	user_ticket_count:一		
+帮我订一张电影票	USER_MOVIE_TICKET	user_ticket_count:一			
+你帮我买张电影票吧	USER_MOVIE_TICKET				
+我要买加菲猫	USER_MOVIE_TICKET	user_movie:加菲猫			
+电影票查询	USER_MOVIE_TICKET				
+但丁密码电影票	USER_MOVIE_TICKET	user_movie:但丁密码			
+魔兽免费看	USER_MOVIE	user_movie:魔兽	user_is_free:免费		
+我要看奇异博士	USER_MOVIE	user_movie:奇异博士			
+播放奥特曼	USER_MOVIE	user_movie:奥特曼	user_online_watch:播放		
+播放搜索	USER_MOVIE	user_movie:搜索	user_online_watch:播放		
+我要看加勒比海盗3	USER_MOVIE	user_movie:加勒比海盗	user_version_num:3		
+我要看玩具总动员3	USER_MOVIE	user_movie:玩具总动员	user_version_num:3		
+我想看不付费千与千寻	USER_MOVIE	user_is_free:不付费	user_movie:千与千寻		
+给我订奥特曼之宇宙大决战的票	USER_MOVIE_TICKET	user_movie:奥特曼之宇宙大决战			
+搜索死亡录像	USER_MOVIE	user_movie:死亡录像			
+我想看蜘蛛侠三	USER_MOVIE	user_movie:蜘蛛侠	user_version_num:三		
+我想看冰河世纪三	USER_MOVIE	user_movie:冰河世纪	user_version_num:三		
+我想看魔戒二	USER_MOVIE	user_movie:魔戒	user_version_num:二		
+我想看怪物史莱克4	USER_MOVIE	user_movie:怪物史莱克	user_version_num:4		
+帮我查一下头脑特工队	USER_MOVIE	user_movie:头脑特工队			
+帮我查一下车神	USER_MOVIE	user_movie:车神			
+放牛班的春天下单	USER_MOVIE_TICKET	user_movie:放牛班的春天			
+我要订床下有人的票	USER_MOVIE_TICKET	user_movie:床下有人			
+那搜索九条命	USER_MOVIE	user_movie:九条命			
+我想免费看人工智能	USER_MOVIE	user_is_free:免费	user_movie:人工智能		
+很火的激情类片	USER_MOVIE	user_movie_type:激情	user_sortby:很火		
+比较火的的纪实类片	USER_MOVIE	user_movie_type:纪实	user_sortby:比较火		
+最新的帮派片	USER_MOVIE	user_movie_type:帮派	user_sortby:最新		
+最好看的喜剧片	USER_MOVIE	user_movie_type:喜剧	user_sortby:最好看		
+比较好的鬼片片	USER_MOVIE	user_movie_type:鬼片	user_sortby:比较好		
+热播的的剧情片	USER_MOVIE	user_movie_type:剧情	user_sortby:热播		
+好看的动画片	USER_MOVIE	user_movie_type:动画	user_sortby:好看		
+好的青春励志片	USER_MOVIE	user_movie_type:青春励志	user_sortby:好		
+最近的科幻片	USER_MOVIE	user_movie_type:科幻	user_release:最近		
+帮我买一张机器人总动员的票	USER_MOVIE_TICKET	user_movie:机器人总动员	user_ticket_count:一		
+帮我买二张寄生兽的票	USER_MOVIE_TICKET	user_movie:寄生兽	user_ticket_count:二		
+帮我买一张惊天破的票	USER_MOVIE_TICKET	user_movie:惊天破	user_ticket_count:一		
+要一张机器人总动员的票	USER_MOVIE_TICKET	user_movie:机器人总动员	user_ticket_count:一		
+要二张寄生兽的票	USER_MOVIE_TICKET	user_movie:寄生兽	user_ticket_count:二		
+要一张惊天破的票	USER_MOVIE_TICKET	user_movie:惊天破	user_ticket_count:一	
+看看沙鲨	USER_MOVIE	user_movie:沙鲨			
+我想看色即是空	USER_MOVIE	user_movie:色即是空			
+我公司周围都有什么电影院啊	USER_MOVIE_CINEMA	user_cinema_area:公司	user_sortby:周围		
+你帮我在公司附近找一个电影院吧，等下去看个电影	USER_MOVIE_CINEMA	user_cinema_area:公司	user_sortby:附近		
+想和闺蜜去看电影，帮我在公司附近找个电影院好么	USER_MOVIE_CINEMA	user_cinema_area:公司	user_sortby:附近		
+你知道离我公司近的电影院在哪么	USER_MOVIE_CINEMA	user_cinema_area:公司	user_sortby:近		
+帮我查查公司旁边的电影院，想去看电影了	USER_MOVIE_CINEMA	user_cinema_area:公司	user_sortby:旁边		
+五道口有哪些电影院	USER_MOVIE_CINEMA	user_cinema_area:五道口			
+那你看一下附近有什么好看的电影	USER_MOVIE_CINEMA	user_sortby:附近	user_sortby:好看		

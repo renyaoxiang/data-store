@@ -1,0 +1,8 @@
+﻿[D:user_actor]的电影	USER_MOVIE
+[D:user_is_free]的电影	USER_MOVIE
+[D:user_release]的电影	USER_MOVIE
+[D:user_director]的电影	USER_MOVIE
+[D:user_movie_type]的电影	USER_MOVIE
+[D:user_movie]	USER_MOVIE
+[D:user_cinema_area]附近的电影院	USER_MOVIE_CINEMA
+[D:user_ticket_count][D:user_movie]	USER_MOVIE_TICKET
